@@ -1,5 +1,5 @@
 # Barry Icons Theme for VSCode
-The ultimate nCino development experience.
+<img src="./themes/icons/barry.png" width=50 height=50/> The ultimate nCino development experience. <img src="./themes/icons/barry.png" width=50 height=50/>
 ## Installation
 - Go to VScode extension directory with your terminal. Check this [api docs](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#your-extension-folder) to find your extension folder for your OS.
 - Clone this repo with the following command:
