@@ -1,0 +1,40 @@
+{
+	"name": "barry-icons",
+	"iconDefinitions": {
+		"_barry": {
+			"iconPath": "./icons/barry.png"
+		},
+		"_barry_police": {
+			"iconPath": "./icons/barry_police.png"
+		},
+		"_barry_point": {
+			"iconPath": "./icons/barry_point.png"
+		},
+		"_barry_secret": {
+			"iconPath": "./icons/barry_secret.png"
+		},
+		"_barry_grave": {
+			"iconPath": "./icons/barry_grave.png"
+		},
+		"_barry_chef": {
+			"iconPath": "./icons/barry_chef.png"
+		},		
+		"_barry_shovel": {
+			"iconPath": "./icons/barry_shovel.png"
+		},
+		"_barfy": {
+			"iconPath": "./icons/barfy.png"
+		}
+	},
+	"folderExpanded": "_barry_point",
+	"folder": "_barry_secret",
+	"rootFolderExpanded": "_barry_point",
+	"rootFolder": "_barry_secret",
+	"file": "_barry",
+	"fileExtensions": {
+		"php": "_barfy",
+		"cls": "_barry_police",
+		"xml": "_barry_chef",
+		"json": "_barry_chef"
+	}
+}

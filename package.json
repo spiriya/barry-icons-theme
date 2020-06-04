@@ -1,0 +1,26 @@
+{
+	"name": "barry-icons-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/spiriya/barry-icons-theme"
+	},
+	"icon": "./themes/icons/barry.png",
+	"displayName": "Barry Icons Theme",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "barry-icons-theme",
+				"label": "Barry Icons Theme",
+				"path": "./themes/barry-icons-theme.json"
+			}
+		]
+	}
+}
